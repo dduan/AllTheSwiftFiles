@@ -1,0 +1,172 @@
+[
+    {
+        "clone_url": "https://github.com/Alamofire/Alamofire.git", 
+        "name": "Alamofire/Alamofire", 
+        "stars": 21597
+    }, 
+    {
+        "clone_url": "https://github.com/vsouza/awesome-ios.git", 
+        "name": "vsouza/awesome-ios", 
+        "stars": 17498
+    }, 
+    {
+        "clone_url": "https://github.com/ReactiveCocoa/ReactiveCocoa.git", 
+        "name": "ReactiveCocoa/ReactiveCocoa", 
+        "stars": 16426
+    }, 
+    {
+        "clone_url": "https://github.com/SwiftyJSON/SwiftyJSON.git", 
+        "name": "SwiftyJSON/SwiftyJSON", 
+        "stars": 13153
+    }, 
+    {
+        "clone_url": "https://github.com/danielgindi/Charts.git", 
+        "name": "danielgindi/Charts", 
+        "stars": 12650
+    }, 
+    {
+        "clone_url": "https://github.com/dkhamsing/open-source-ios-apps.git", 
+        "name": "dkhamsing/open-source-ios-apps", 
+        "stars": 11923
+    }, 
+    {
+        "clone_url": "https://github.com/ipader/SwiftGuide.git", 
+        "name": "ipader/SwiftGuide", 
+        "stars": 11345
+    }, 
+    {
+        "clone_url": "https://github.com/matteocrippa/awesome-swift.git", 
+        "name": "matteocrippa/awesome-swift", 
+        "stars": 10969
+    }, 
+    {
+        "clone_url": "https://github.com/raywenderlich/swift-algorithm-club.git", 
+        "name": "raywenderlich/swift-algorithm-club", 
+        "stars": 10556
+    }, 
+    {
+        "clone_url": "https://github.com/PerfectlySoft/Perfect.git", 
+        "name": "PerfectlySoft/Perfect", 
+        "stars": 10321
+    }, 
+    {
+        "clone_url": "https://github.com/MengTo/Spring.git", 
+        "name": "MengTo/Spring", 
+        "stars": 9966
+    }, 
+    {
+        "clone_url": "https://github.com/SnapKit/SnapKit.git", 
+        "name": "SnapKit/SnapKit", 
+        "stars": 8720
+    }, 
+    {
+        "clone_url": "https://github.com/Carthage/Carthage.git", 
+        "name": "Carthage/Carthage", 
+        "stars": 8708
+    }, 
+    {
+        "clone_url": "https://github.com/allenwong/30DaysofSwift.git", 
+        "name": "allenwong/30DaysofSwift", 
+        "stars": 8278
+    }, 
+    {
+        "clone_url": "https://github.com/vapor/vapor.git", 
+        "name": "vapor/vapor", 
+        "stars": 8259
+    }, 
+    {
+        "clone_url": "https://github.com/fullstackio/FlappySwift.git", 
+        "name": "fullstackio/FlappySwift", 
+        "stars": 8230
+    }, 
+    {
+        "clone_url": "https://github.com/JohnCoates/Aerial.git", 
+        "name": "JohnCoates/Aerial", 
+        "stars": 7687
+    }, 
+    {
+        "clone_url": "https://github.com/ReactiveX/RxSwift.git", 
+        "name": "ReactiveX/RxSwift", 
+        "stars": 7570
+    }, 
+    {
+        "clone_url": "https://github.com/ochococo/Design-Patterns-In-Swift.git", 
+        "name": "ochococo/Design-Patterns-In-Swift", 
+        "stars": 7245
+    }, 
+    {
+        "clone_url": "https://github.com/onevcat/Kingfisher.git", 
+        "name": "onevcat/Kingfisher", 
+        "stars": 7000
+    }, 
+    {
+        "clone_url": "https://github.com/CosmicMind/Material.git", 
+        "name": "CosmicMind/Material", 
+        "stars": 6817
+    }, 
+    {
+        "clone_url": "https://github.com/mxcl/PromiseKit.git", 
+        "name": "mxcl/PromiseKit", 
+        "stars": 6798
+    }, 
+    {
+        "clone_url": "https://github.com/mozilla-mobile/firefox-ios.git", 
+        "name": "mozilla-mobile/firefox-ios", 
+        "stars": 6756
+    }, 
+    {
+        "clone_url": "https://github.com/Ramotion/animated-tab-bar.git", 
+        "name": "Ramotion/animated-tab-bar", 
+        "stars": 6664
+    }, 
+    {
+        "clone_url": "https://github.com/IBAnimatable/IBAnimatable.git", 
+        "name": "IBAnimatable/IBAnimatable", 
+        "stars": 5840
+    }, 
+    {
+        "clone_url": "https://github.com/Quick/Quick.git", 
+        "name": "Quick/Quick", 
+        "stars": 5815
+    }, 
+    {
+        "clone_url": "https://github.com/realm/SwiftLint.git", 
+        "name": "realm/SwiftLint", 
+        "stars": 5707
+    }, 
+    {
+        "clone_url": "https://github.com/lkzhao/Hero.git", 
+        "name": "lkzhao/Hero", 
+        "stars": 5614
+    }, 
+    {
+        "clone_url": "https://github.com/lexrus/LTMorphingLabel.git", 
+        "name": "lexrus/LTMorphingLabel", 
+        "stars": 5228
+    }, 
+    {
+        "clone_url": "https://github.com/IBM-Swift/Kitura.git", 
+        "name": "IBM-Swift/Kitura", 
+        "stars": 5228
+    }, 
+    {
+        "clone_url": "https://github.com/CatchChat/Yep.git", 
+        "name": "CatchChat/Yep", 
+        "stars": 5206
+    }, 
+    {
+        "clone_url": "https://github.com/xmartlabs/Eureka.git", 
+        "name": "xmartlabs/Eureka", 
+        "stars": 5194
+    }, 
+    {
+        "clone_url": "https://github.com/apple/swift-package-manager.git", 
+        "name": "apple/swift-package-manager", 
+        "stars": 5131
+    }, 
+    {
+        "clone_url": "https://github.com/robb/Cartography.git", 
+        "name": "robb/Cartography", 
+        "stars": 5053
+    }
+]
